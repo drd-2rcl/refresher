@@ -6,8 +6,8 @@ const Users = () => {
   const USERS = [
     {
       id: 'u1', 
-      name: 'Diogo Dias', 
-      image: 'https://assets.imgix.net/hp/snowshoe.jpg?auto=compress&w=900&h=600&fit=crop&crop=focalpoint&fp-x=.41&fp-y=.43&fp-z=1.59&fp-debug=1',
+      name: 'Diogo Dias',
+      image: 'https://api.adorable.io/avatars/80/abott@adorable.png',
       places: 3
     }
   ];
